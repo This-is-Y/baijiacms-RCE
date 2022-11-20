@@ -3,6 +3,7 @@ baijiacms后台RCE
 
 
 项目地址：https://github.com/baijiacms/baijiacmsV4
+
 版本：V4.1.4 20170105 FINAL
 环境：
 
@@ -12,6 +13,7 @@ baijiacms后台RCE
 + 20.04.1-Ubuntu
 
 
+[README_en](https://github.com/This-is-Y/baijiacms-RCE/blob/main/README_en.md)
 
 漏洞点在文件includes/baijiacms/common.inc.php
 第654行。
